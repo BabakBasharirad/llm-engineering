@@ -1,6 +1,9 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_name: Large Language Model (LLM) Engineering
+course_description: "This minor addresses the growing professional need for engineers who can design, implement, and responsibly deploy Large Language Models (LLMs). 
+Students develop competencies in natural language processing, software engineering, and ethical AI while working on current challenges such as retrieval-augmented generation, 
+fine-tuning, and deployment. Professional products include coding assignments, ethical case analyses, and a capstone industry project, where students apply their knowledge 
+to create innovative, production-ready AI solutions."
 course_semester: "Fall 1998"
 
 baseurl: "/llm-engineering" # the subpath of your site, e.g. /blog/
