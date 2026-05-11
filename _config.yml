@@ -1,22 +1,22 @@
 # Site settings
 course_name: Large Language Model (LLM) Engineering
-course_description: "This minor addresses the growing professional need for engineers who can design, implement, and responsibly deploy Large Language Models (LLMs). 
+course_description: "This minor course addresses the growing professional need for engineers who can design, implement, and responsibly deploy Large Language Models (LLMs). 
 Students develop competencies in natural language processing, software engineering, and ethical AI while working on current challenges such as retrieval-augmented generation, 
 fine-tuning, and deployment. Professional products include coding assignments, ethical case analyses, and a capstone industry project, where students apply their knowledge 
 to create innovative, production-ready AI solutions."
-course_semester: "Fall 1998"
+course_semester: "Fall 2026"
 
 baseurl: "/llm-engineering" # the subpath of your site, e.g. /blog/
 url: "http://BabakBasharirad.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolname: "School of Communication, Media and Information Technology (CMI)"
+schoolurl: "https://www.rotterdamuas.com/"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    School of Communication, Media and Information Technology (CMI)
+    Rotterdam University of Applied Sciences
+    Wijnhaven 107, 3011 WN Rotterdam, Netherlands. 
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
