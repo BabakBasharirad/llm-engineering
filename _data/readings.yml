@@ -6,7 +6,7 @@
   library: "O’Reilly library"
   year: "Nov. 2022"
   publisher: "Apress"
-  cover: "/_images/readings/r1.png"
+  cover: "/_images/refs/r1.png"
 
 - ref: R2
   title: "97 Things About Ethics Everyone in Data Science Should Know"
@@ -14,7 +14,7 @@
   library: "O’Reilly library"
   year: "August 2020"
   publisher: "O’Reilly Media"
-  cover: "/_images/readings/r2.jpg"
+  cover: "/_images/refs/r2.jpg"
 
 - ref: R3
   title: "Natural Language Processing in Action"
@@ -22,7 +22,7 @@
   library: "O’Reilly library"
   year: "February 2025"
   publisher: "Manning Publications"
-  cover: "/_images/readings/r3.png"
+  cover: "/_images/refs/r3.png"
 
 - ref: R4
   title: "Practical Natural Language Processing"
@@ -30,7 +30,7 @@
   library: "O’Reilly library"
   year: "June 2020"
   publisher: "O’Reilly Media"
-  cover: "/_images/readings/r4.png"
+  cover: "/_images/refs/r4.png"
 
 - ref: R5
   title: "Natural Language Processing with Transformers"
@@ -38,7 +38,7 @@
   library: "O’Reilly library"
   year: "May 2022"
   publisher: "O’Reilly Media"
-  cover: "/_images/readings/r5.png"
+  cover: "/_images/refs/r5.png"
 
 - ref: R6
   title: "Hands-On Large Language Models"
@@ -46,7 +46,7 @@
   library: "O’Reilly library"
   year: "September 2024"
   publisher: "O’Reilly Media"
-  cover: "/_images/readings/r6.png"
+  cover: "/_images/refs/r6.png"
 
 - ref: R7
   title: "Build a Large Language Model (From Scratch)"
@@ -54,7 +54,7 @@
   library: "O’Reilly library"
   year: "September 2024"
   publisher: "Manning Publications"
-  cover: "/_images/readings/r7.png"
+  cover: "/_images/refs/r7.png"
 
 - ref: R8
   title: "How Large Language Models Work"
@@ -62,7 +62,7 @@
   library: "O’Reilly library"
   year: "June 2025"
   publisher: "Manning Publications"
-  cover: "/images/readings/r8.png"
+  cover: "/images/refs/r8.png"
 
 - ref: R9
   title: "Designing Large Language Model Applications"
@@ -70,7 +70,7 @@
   library: "O’Reilly library"
   year: "March 2025"
   publisher: "O’Reilly Media"
-  cover: "/_images/readings/r9.png"
+  cover: "/_images/refs/r9.png"
 
 - ref: R10
   title: "Privacy and Security for Large Language Models"
@@ -78,7 +78,7 @@
   library: "O’Reilly library"
   year: "January 2026"
   publisher: "O’Reilly Media"
-  cover: "/_images/readings/r10.png"
+  cover: "/_images/refs/r10.png"
 
 - ref: R11
   title: "Intermediate Python and Large Language Models"
@@ -86,7 +86,7 @@
   library: "O’Reilly library"
   year: "June 2025"
   publisher: "Apress"
-  cover: "/_images/readings/r11.png"
+  cover: "/_images/refs/r11.png"
 
 - ref: R12
   title: "Quick Start Guide to Large Language Models: Strategies and Best Practices for ChatGPT, Embeddings, Fine-Tuning, and Multimodal AI"
@@ -94,4 +94,4 @@
   library: "O’Reilly library"
   year: "October 2024"
   publisher: "Addison-Wesley Professional"
-  cover: "/_images/readings/r12.jpg"
+  cover: "/_images/refs/r12.jpg"
