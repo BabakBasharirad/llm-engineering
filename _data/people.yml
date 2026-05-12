@@ -1,10 +1,12 @@
 course_leader:
+
+    
+instructors:
   - name: Babak Basharirad
     profile_pic: /_images/pp/dumbledore.jpg
     webpage: https://scholar.google.com/citations?user=7-eWYs0AAAAJ&hl=en
     linkedIn: https://www.linkedin.com/in/babak-basharirad/
     
-instructors:
   - name: Farzad Vaziri
     profile_pic: /_images/pp/dumbledore.jpg
     webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
@@ -12,14 +14,3 @@ instructors:
     profile_pic: /_images/pp/mcgonagall.jpg
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
-
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
-
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
