@@ -26,13 +26,17 @@ layout: default
                     {% else %}
                     <p>{{ins.name}}</p>
                     {% endif %}
+
+                    {% if ins.LinkedIn %}
+                    <span><a href="mailto:{{ ins.email }}">Email me</a></span>
+                    {% endif %}
                     
                     {% if ins.LinkedIn %}
-                    <span><a href="{{ ins.LinkedIn }}">{{"LinkedIn"}}</a></span>
+                    <span><a href="{{ ins.LinkedIn }}">LinkedIn</a></span>
                     {% endif %}
                     
                     {% if ins.Google_Scholar %}
-                    <span><a href="{{ ins.Google_Scholar }}">{{"Google Scholar"}}</a></span>
+                    <span><a href="{{ ins.Google_Scholar }}">Google Scholar</a></span>
                     {% endif %}
                     
                 </div>    <!-- end of for -->
