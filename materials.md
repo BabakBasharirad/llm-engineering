@@ -8,7 +8,7 @@ permalink: /materials/
 <table>
 {% for book in site.data.readings %}
   <tr>
-    <td>{{ book.ref }}</td>
+    <td>{{ book.ref }}<br><br><br><br></td>
     <td><img src="{{ book.cover | relative_url }}" width="100"></td>
     <td>
       <strong>{{ book.title }}</strong><br>
