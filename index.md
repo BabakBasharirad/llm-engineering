@@ -63,7 +63,8 @@ No separate email notifications will be sent when updates are made. To ensure yo
 <br>
 <br>
 
-### Course Structure
+#### **Course Structure**
+
 This course is composed of 5 modules:
 
 -	Module 1: Ethics and Responsible AI (M1)
@@ -72,8 +73,10 @@ This course is composed of 5 modules:
 -	Module 4: Applied LLM Systems (M4)
 -	Module 5: Capstone Project (M5)
 
+<br>
 
-### Course Schedule
+#### **Course Schedule**
+
 
 | Module | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9 | W10 | W11 | W12 | W13 | W14 | W15 | W16 | W17 | W18 | W19 | W20 |
 |--------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -86,7 +89,7 @@ This course is composed of 5 modules:
 <br>
 <br>
 
-### Summary of Course Contents [Course Manual]
+#### **Summary of Course Contents**
 
 #### Module 1: Ethics and Responsible AI 
 
