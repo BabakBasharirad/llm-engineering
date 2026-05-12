@@ -16,62 +16,27 @@ layout: default
 
     <br>
     <div>    <!-- bgine of Course Team -->
-        <div style="width:35%; float: left">    <!-- begin of 35% -->
-            
-            <!-- <h2>Instructors</h2> -->
-            <!-- <div class="image--cover-container">
-                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                <p>{{site.data.people.instructor.name}}</p>
-            </div> -->
-            
-            <div class="profile-pic-gallary ">    <!-- begin of Leader -->
-                <h2>Course Leader</h2>
-                {% for ins in site.data.people.course_leader %}
-                <div class="image--cover-container">    <!-- begin of for -->
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
-                    {% else %}
-                    <p>{{ins.name}}</p>
-                    {% endif %}
-                    {% if ins.webpage %}
-                    <p><a href="{{ ins.linkedIn }}">{{linkedIn}}</a></p>
-                    {% endif %}            
-                </div>    <!-- end of for -->
-                {% endfor %}
-            </div>    <!-- end of Leader -->
-        </div>    <!-- end of 35% -->
-        
-        <div style="width:65%; float: left">        
             <div class="profile-pic-gallary ">
                 <h2>Instructors</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
+                    {% if ins.webpage1 %}
                     <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
                     {% else %}
                     <p>{{ins.name}}</p>
                     {% endif %}
+                    
+                    {% if ins.webpage2 %}
+                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    {% else %}
+                    <p>{{ins.name}}</p>
+                    {% endif %}
+                    
                 </div>    <!-- end of for -->
                 {% endfor %}
-            </div>    <!-- end of Ins -->
-        </div>    <!-- end of 65% -->
-
-        <div class="profile-pic-gallary ">
-            <h2>Teaching Assistants</h2>
-            {% for ta in site.data.people.teaching_assistants %}
-            <div class="image--cover-container">
-                <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                {% if ta.webpage %}
-                <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
-                {% else %}
-                <p>{{ta.name}}</p>
-                {% endif %}
-            </div>    <!-- end of for -->
-            {% endfor %}
-        </div>    <!-- end of TA -->
-    </div>    <!-- end of Course Team -->
+            </div>    <!-- end of Course Team -->
+    </div>
 
     <div style="clear: both;"></div>
     
