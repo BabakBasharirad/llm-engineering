@@ -21,11 +21,11 @@ Alan Turing and Noam Chomsky: Very Famous Book
 
 
 
-**R1** | **Introduction to Responsible AI: Implement Ethical AI Using Python** | <img width="53" height="67" alt="image" src="https://github.com/user-attachments/assets/0d7a59bb-0acf-46fe-b86e-502f65d9b950" />
-
+**R1** | **Introduction to Responsible AI: Implement Ethical AI Using Python** 
 <br> Avinash Manure, Shaleen Bengani, Saravanan S.
 <br> [Available on O’Reilly library](#) 
 <br> Nov. 2022. Apress.
+| <img width="53" height="67" alt="image" src="https://github.com/user-attachments/assets/0d7a59bb-0acf-46fe-b86e-502f65d9b950" />
 <br> 
 
 **R2** | **97 Things About Ethics Everyone in Data Science Should Know** 
