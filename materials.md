@@ -4,10 +4,7 @@ title: Materials
 permalink: /materials/
 ---
 
-
 ## Refrences
-
-<br>
 <table>
 {% for book in site.data.readings %}
   <tr>
@@ -17,10 +14,9 @@ permalink: /materials/
       <strong>{{ book.title }}</strong><br>
       {{ book.authors }}<br>
       Available on {{ book.library }}.<br>
-      {{ book.year }}. {{ book.publisher }}.
+      {{ book.year }}. {{ book.publisher }}.<br>
     </td>
   </tr>
-  <br>
 {% endfor %}
 </table>
 
