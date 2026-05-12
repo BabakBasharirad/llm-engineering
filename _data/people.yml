@@ -2,8 +2,9 @@ instructors:
   - name: Babak Basharirad
     profile_pic: /_images/pp/dumbledore.jpg
     email: b.basharirad@hr.nl
-    Google_Scholar: https://scholar.google.com/citations?user=7-eWYs0AAAAJ&hl=en
+    google_scholar_id: 7-eWYs0AAAAJ&hl=en
     LinkedIn: https://www.linkedin.com/in/babak-basharirad/
+    
     
   - name: Farzad Vaziri
     profile_pic: /_images/pp/dumbledore.jpg
