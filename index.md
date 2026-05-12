@@ -3,11 +3,6 @@ layout: home
 ---
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## ⚠ Important Notes
 
