@@ -6,7 +6,7 @@
   library: "O’Reilly library"
   year: "Nov. 2022"
   publisher: "Apress"
-  cover: "/images/r1.jpg"
+  cover: "/images/r1.png"
 
 - ref: R2
   title: "97 Things About Ethics Everyone in Data Science Should Know"
