@@ -21,14 +21,18 @@ layout: default
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage1 %}
-                    <p><a href="{{ ins.webpage1 }}">{{ins.name}}</a></p>
+                    {% if ins.webpage %}
+                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
                     {% else %}
                     <p>{{ins.name}}</p>
                     {% endif %}
                     
-                    {% if ins.webpage2 %}
-                    <p><a href="{{ ins.webpage2 }}">{{"LinkedIn"}}</a></p>
+                    {% if ins.LinkedIn %}
+                    <span><a href="{{ ins.LinkedIn }}">{{"LinkedIn"}}</a></span>
+                    {% endif %}
+                    
+                    {% if ins.Google_Scholar %}
+                    <span><a href="{{ ins.Google_Scholar }}">{{"LinkedIn"}}</a></span>
                     {% endif %}
                     
                 </div>    <!-- end of for -->
