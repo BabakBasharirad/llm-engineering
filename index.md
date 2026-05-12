@@ -3,43 +3,47 @@ layout: home
 ---
 
 <br>
+## Course Policies and Communication Guidelines
 
-## ⚠ Important Notes
+### Inclusive Learning Environment
 
-**Diversity, Equity, and Inclusion**
+We value the diversity of all students. This course aims to create a safe, respectful, and inclusive learning environment where everyone, regardless of background, identity, or perspective, feels valued and heard.
 
-We value the diversity of all students. This course aims to create a safe and respectful environment where everyone, regardless of their background, identity, or views, feels valued and heard.
-
-We welcome your feedback to understand how different students experience this course and will use it to make improvements and ensure it works well for everyone.
-
----
-
-You are always welcome to ask a **technical question** about the course by sending an email to the course teachers. However, the details of the course, topics, assessments, course schedule, etc., are already provided in this course guide (this document) or the course manual (the link is provided below).
-
-Due to the high volume of inquiries during the course, we are unable to respond to repeated questions from multiple students regarding information that has already been addressed.
+We welcome constructive feedback to better understand how students experience the course and to support continuous improvement for all participants.
 
 ---
 
-You are always welcome to directly, or through your class representative, send your **feedback, comments, or recommendations** to the course coordinators or teachers by email. We appreciate your contribution to improving the course.
+### Course Communication
 
-However, note that some recommendations might not be feasible to apply in the current semester, as most materials are already prepared.
+You are always welcome to contact the course teachers with **technical or academic questions** related to the course content.
 
----
+Before contacting the teaching team, please consult the available course documentation, including this course guide and the course manual, where information about topics, assessments, schedules, and other course details is already provided.
 
-Please note that neither the course coordinators nor the teachers are in charge of **administration or managerial tasks**.
-
-Any concerns or questions related to administration tasks (**non-technical**), such as enrolment in the course in Osiris, exam schedule (regular or retake), exam registration, exam mode (physical or online), etc., should be directed to the responsible administrative contact or discussed with your SLC.
+Due to the high volume of inquiries during the course, we may not be able to respond to repeated questions regarding information that has already been clearly addressed in the provided materials.
 
 ---
 
-The contents of this reading guide will be **gradually constructed and modified during the course**. We will **not** send email notifications about updates.
+### Feedback and Suggestions
 
-To ensure you always have the latest materials, updates, and announcements, please check this document regularly.
+Students are encouraged to share feedback, comments, or recommendations regarding the course, either directly or through their class representative. We appreciate your contribution to improving the course experience.
+
+Please note that while all feedback is considered carefully, some suggestions may not be feasible to implement during the current semester, particularly when teaching materials and assessments have already been finalized.
 
 ---
 
-Thank you for your understanding, and I wish you success in the course.
+### Administrative Matters
 
+Course coordinators and teachers are responsible for the academic aspects of the course but are not responsible for administrative or managerial matters.
+
+Questions related to non-academic administration—such as enrolment in Osiris, exam scheduling (regular or resit), exam registration, assessment logistics, or examination mode—should be directed to the appropriate administrative contact or discussed with your Student Learning Coach (SLC).
+
+---
+
+### Course Document Updates
+
+This course guide is a living document and may be updated throughout the semester to reflect clarifications, corrections, or new information.
+
+No separate email notifications will be sent when updates are made. To ensure you always have access to the latest course materials, announcements, and information, please check this document regularly.
 
 <br>
 <br>
