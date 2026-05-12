@@ -20,7 +20,9 @@ Alan Turing and Noam Chomsky: Very Famous Book
 * [Material #5](http://www.example.com/): how a computer chess player thinks!
 
 
-| R1 | **Introduction to Responsible AI: Implement Ethical AI Using Python** | Avinash Manure, Shaleen Bengani, Saravanan S.[Available on O’Reilly library](#) Nov. 2022. Apress. |
+R1 | **Introduction to Responsible AI: Implement Ethical AI Using Python**
+<br>Avinash Manure, Shaleen Bengani, Saravanan S.[
+<br> Available on O’Reilly library](#) Nov. 2022. Apress.
 
 | R2 | **97 Things About Ethics Everyone in Data Science Should Know** | Bill Franks.<br>[Available on O’Reilly library](#)<br>August 2020. O’Reilly Media. |
 
