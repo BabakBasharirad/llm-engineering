@@ -1,0 +1,17 @@
+# _data/readings.yml
+
+- ref: R1
+  title: "Introduction to Responsible AI: Implement Ethical AI Using Python"
+  authors: "Avinash Manure, Shaleen Bengani, Saravanan S."
+  library: "O’Reilly library"
+  year: "Nov. 2022"
+  publisher: "Apress"
+  cover: "/images/r1.jpg"
+
+- ref: R2
+  title: "97 Things About Ethics Everyone in Data Science Should Know"
+  authors: "Bill Franks"
+  library: "O’Reilly library"
+  year: "August 2020"
+  publisher: "O’Reilly Media"
+  cover: "/images/r2.jpg"
