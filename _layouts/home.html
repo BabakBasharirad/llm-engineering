@@ -22,13 +22,13 @@ layout: default
                 <div class="image--cover-container">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage1 %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    <p><a href="{{ ins.webpage1 }}">{{ins.name}}</a></p>
                     {% else %}
                     <p>{{ins.name}}</p>
                     {% endif %}
                     
                     {% if ins.webpage2 %}
-                    <p><a href="{{ ins.webpage }}">{{"LinkedIn"}}</a></p>
+                    <p><a href="{{ ins.webpage2 }}">{{"LinkedIn"}}</a></p>
                     {% endif %}
                     
                 </div>    <!-- end of for -->
