@@ -28,21 +28,21 @@ layout: default
                     {% endif %}
 
                     {% if ins.LinkedIn %}
-                    <span><a href="mailto:{{ ins.email }}">{{ins.email}}</a></span>
+                    <p><a href="mailto:{{ ins.email }}">{{ins.email}}</a></p>
                     {% endif %}
                     
                     {% if ins.LinkedIn %}
-                    <span><a href="{{ ins.LinkedIn }}">LinkedIn</a></span>
+                    <p><a href="{{ ins.LinkedIn }}">LinkedIn</a></span>
                     {% endif %}
                     
                     {% if ins.google_scholar_link %}
-                    <span><a href="{{ ins.google_scholar_link }}">Google Scholar</a></span>
+                    <p><a href="{{ ins.google_scholar_link }}">Google Scholar</a></p>
                     {% endif %}
                     
                     {% if ins.google_scholar_id %}
-                    <span><a href="https://scholar.google.com/citations?user={{ ins.google_scholar_id }}">
+                    <p><a href="https://scholar.google.com/citations?user={{ ins.google_scholar_id }}">
                           <i class="ai ai-google-scholar" style="color:gray"></i> Google Scholar
-                    </a></span>
+                    </a></p>
                     {% endif %}
                     
                 </div>    <!-- end of for -->
