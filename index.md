@@ -48,6 +48,8 @@ This course guide is a living document and may be updated throughout the semeste
 
 No separate email notifications will be sent when updates are made. To ensure you always have access to the latest course materials, announcements, and information, please check this document regularly.
 
+---
+
 <br>
 <br>
 
