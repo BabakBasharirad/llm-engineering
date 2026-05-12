@@ -22,9 +22,9 @@ layout: default
                 <div class="image--cover-container" style="width: 20%;">
                     <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ins.webpage %}
-                    <span><a href="{{ ins.webpage }}">{{ins.name}}</a></span><br>
+                    <span><a href="{{ ins.webpage }}"><strong>{{ ins.name }}</strong></a></span><br>                    
                     {% else %}
-                    <p>{{ins.name}}</p>
+                    <span><strong>{{ ins.name }}</strong></span><br>
                     {% endif %}
 
                     {% if ins.LinkedIn %}
