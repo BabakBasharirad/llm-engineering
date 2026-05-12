@@ -4,7 +4,7 @@ layout: home
 
 <br>
 
-<h3 style="color:red;"><strong>Course Policies and Communication Guidelines</strong>strong></h3>
+<h3 style="color:red;"><strong>Course Policies and Communication Guidelines</strong></h3>
 
 #### **Inclusive Learning Environment**
 
