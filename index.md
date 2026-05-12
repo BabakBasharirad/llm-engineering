@@ -95,7 +95,7 @@ This course is composed of 5 modules:
 #### Module 5: Capstone Project (CP)
 
 - Research methodology for AI systems, formulating a research question, literature review and academic search, research proposal writing, academic writing fundamentals, structuring a journal paper, related work and positioning, experimental design and reproducibility, evaluation methodology for LLM systems, statistical analysis and reporting, writing results and discussion sections, peer review process, journal selection and submission, publication ethics and authorship, CRediT contributor roles, project management for research teams, industry collaboration and stakeholder communication.
-<img width="468" height="349" alt="image" src="https://github.com/user-attachments/assets/576c1d30-8e6f-43d6-a03f-4ab0102102ed" />
+
 
 
 <br>
