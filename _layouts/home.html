@@ -33,6 +33,10 @@ layout: default
                     {% else %}
                     <p>{{ins.name}}</p>
                     {% endif %}
+                    {% if ins.webpage %}
+                    <p><a href="{{ ins.linkedIn }}">{{linkedIn}}</a></p>
+
+                    {% endif %}                    
                 </div>
                 {% endfor %}
             </div>
