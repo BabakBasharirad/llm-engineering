@@ -20,7 +20,9 @@ Alan Turing and Noam Chomsky: Very Famous Book
 * [Material #5](http://www.example.com/): how a computer chess player thinks!
 
 
-**R1** | **Introduction to Responsible AI: Implement Ethical AI Using Python**
+
+**R1** | **Introduction to Responsible AI: Implement Ethical AI Using Python** | <img width="53" height="67" alt="image" src="https://github.com/user-attachments/assets/0d7a59bb-0acf-46fe-b86e-502f65d9b950" />
+
 <br> Avinash Manure, Shaleen Bengani, Saravanan S.
 <br> [Available on O’Reilly library](#) 
 <br> Nov. 2022. Apress.
@@ -32,7 +34,8 @@ Alan Turing and Noam Chomsky: Very Famous Book
 <br>August 2020. O’Reilly Media.
 <br> 
 
-**R3** | **Natural Language Processing in Action** 
+**R3** | **Natural Language Processing in Action** ![Uploading image.png…]()
+
 <br> Cole Howard, Hobson Lane, Maria Dyshel, Hannes Hapke.
 <br> [Available on O’Reilly library](#)
 <br> February 2025. Manning Publications.
