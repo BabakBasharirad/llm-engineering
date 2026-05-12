@@ -25,7 +25,7 @@ Alan Turing and Noam Chomsky: Very Famous Book
 <br> Avinash Manure, Shaleen Bengani, Saravanan S.
 <br> [Available on O’Reilly library](#) 
 <br> Nov. 2022. Apress.
-| <img width="53" height="67" alt="image" src="https://github.com/user-attachments/assets/0d7a59bb-0acf-46fe-b86e-502f65d9b950" />
+| <img width="53" height="67" alt="image" src="_images/R1.png" />
 <br> 
 
 **R2** | **97 Things About Ethics Everyone in Data Science Should Know** 
