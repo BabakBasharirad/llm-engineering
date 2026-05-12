@@ -53,6 +53,18 @@ Thank you for your understanding, and I wish you success in the course.
 <br>
 <br>
 
+## Course Structure
+This course is composed of 5 modules:
+
+-	Module 1: Ethics and Responsible AI (M1)
+-	Module 2: Foundations of NLP and LLMs (M2)
+-	Module 3: Pythonic LLM Engineering (M3)
+-	Module 4: Applied LLM Systems (M4)
+-	Module 5: Capstone Project (M5)
+
+<img width="468" height="127" alt="image" src="https://github.com/user-attachments/assets/07542c98-2f3e-457d-98e5-2e7c458940d5" />
+
+
 
 
 ## Course Schedule
