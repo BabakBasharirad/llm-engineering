@@ -93,3 +93,31 @@ Alan Turing and Noam Chomsky: Very Famous Book
 <br> Sinan Ozdemir. 
 <br> [Available on O’Reilly library](#) 
 <br> October 2024. Addison-Wesley Professional.
+
+
+
+
+<table>
+{% for book in site.data.readings %}
+  <tr>
+    <td>{{ book.ref }}</td>
+    <td><img src="{{ book.cover | prepend: site.baseurl }}" width="80"></td>
+    <td>
+      <strong>{{ book.title }}</strong><br>
+      {{ book.authors }}<br>
+      Available on {{ book.library }}.<br>
+      {{ book.year }}. {{ book.publisher }}.
+    </td>
+  </tr>
+{% endfor %}
+</table>
+
+
+
+
+
+
+
+
+
+
