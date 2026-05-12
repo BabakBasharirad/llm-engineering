@@ -35,8 +35,16 @@ layout: default
                     <span><a href="{{ ins.LinkedIn }}">LinkedIn</a></span>
                     {% endif %}
                     
-                    {% if ins.Google_Scholar %}
-                    <span><a href="{{ ins.Google_Scholar }}">Google Scholar</a></span>
+                    {% if ins.google_scholar_link %}
+                    <span><a href="{{ ins.google_scholar_link }}">Google Scholar</a></span>
+                    {% endif %}
+                    
+                    {% if site.google_scholar_id %}
+                      <li>
+                        <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
+                          <i class="ai ai-google-scholar" style="color:gray"></i> {{ site.google_scholar_id }}
+                        </a>
+                      </li>
                     {% endif %}
                     
                 </div>    <!-- end of for -->
