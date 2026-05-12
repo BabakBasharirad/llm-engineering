@@ -8,7 +8,7 @@ layout: home
 
 ---
 
-#### Inclusive Learning Environment
+#### ** Inclusive Learning Environment **
 
 We value the diversity of all students. This course aims to create a safe, respectful, and inclusive learning environment where everyone, regardless of background, identity, or perspective, feels valued and heard.
 
