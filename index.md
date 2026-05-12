@@ -4,6 +4,9 @@ layout: home
 
 <br>
 
+<h3 style="color:blue;">Course Policies and Communication Guidelines</h3>
+
+
 ### **Course Policies and Communication Guidelines**
 
 ---
