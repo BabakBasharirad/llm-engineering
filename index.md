@@ -10,10 +10,13 @@ layout: home
 
 ---
 
+<div style="background-color: #e6f7ff; padding: 10px; border-radius: 6px;">
 We value the diversity of all students. This course aims to create a safe, respectful, and inclusive learning environment where everyone, regardless of background, identity, or perspective, feels valued and heard.
 
 We welcome constructive feedback to better understand how students experience the course and to support continuous improvement for all participants.
+</div>
 
+<br>
 
 #### **Course Communication**
 
@@ -25,7 +28,7 @@ Before contacting the teaching team, please consult the available course documen
 
 Due to the high volume of inquiries during the course, we may not be able to respond to repeated questions regarding information that has already been clearly addressed in the provided materials.
 
-
+<br>
 
 #### **Feedback and Suggestions**
 
@@ -35,6 +38,8 @@ Students are encouraged to share feedback, comments, or recommendations regardin
 
 Please note that while all feedback is considered carefully, some suggestions may not be feasible to implement during the current semester, particularly when teaching materials and assessments have already been finalized.
 
+<br>
+
 #### **Administrative Matters**
 
 ---
@@ -42,6 +47,8 @@ Please note that while all feedback is considered carefully, some suggestions ma
 Course coordinators and teachers are responsible for the academic aspects of the course but are not responsible for administrative or managerial matters.
 
 Questions related to non-academic administration—such as enrolment in Osiris, exam scheduling (regular or resit), exam registration, assessment logistics, or examination mode—should be directed to the appropriate administrative contact or discussed with your Student Learning Coach (SLC).
+
+<br>
 
 #### **Course Document Updates**
 
