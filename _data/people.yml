@@ -1,8 +1,13 @@
+course_leader:
+  - name: Babak Basharirad
+    profile_pic: /_images/pp/dumbledore.jpg
+    webpage: https://www.linkedin.com/in/babak-basharirad/
+    
 instructors:
-  - name: Albus Dumbledore
+  - name: Farzad Vaziri
     profile_pic: /_images/pp/dumbledore.jpg
     webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
+  - name: Teacher of Ethics
     profile_pic: /_images/pp/mcgonagall.jpg
 
 teaching_assistants:
