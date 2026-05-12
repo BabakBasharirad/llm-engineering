@@ -57,9 +57,6 @@ This course is composed of 5 modules:
 -	Module 4: Applied LLM Systems (M4)
 -	Module 5: Capstone Project (M5)
 
-<img width="468" height="127" alt="image" src="https://github.com/user-attachments/assets/07542c98-2f3e-457d-98e5-2e7c458940d5" />
-
-
 
 
 ## Course Schedule
