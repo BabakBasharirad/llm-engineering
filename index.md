@@ -3,6 +3,7 @@ layout: home
 ---
 
 <br>
+
 ## Course Policies and Communication Guidelines
 
 ### Inclusive Learning Environment
