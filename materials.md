@@ -27,7 +27,6 @@ Alan Turing and Noam Chomsky: Very Famous Book
 <br> Avinash Manure, Shaleen Bengani, Saravanan S.
 <br> [Available on O’Reilly library](#) 
 <br> Nov. 2022. Apress.
-| <img width="53" height="67" alt="image" src="_images/R1.png" />
 <br> 
 
 **R2** | **97 Things About Ethics Everyone in Data Science Should Know** 
@@ -36,7 +35,7 @@ Alan Turing and Noam Chomsky: Very Famous Book
 <br>August 2020. O’Reilly Media.
 <br> 
 
-**R3** | **Natural Language Processing in Action** ![Uploading image.png…]()
+**R3** | **Natural Language Processing in Action**
 
 <br> Cole Howard, Hobson Lane, Maria Dyshel, Hannes Hapke.
 <br> [Available on O’Reilly library](#)
@@ -97,13 +96,11 @@ Alan Turing and Noam Chomsky: Very Famous Book
 <br> October 2024. Addison-Wesley Professional.
 
 
-
-
 <table>
 {% for book in site.data.readings %}
   <tr>
     <td>{{ book.ref }}</td>
-    <td><img src="{{ book.cover | prepend: site.baseurl }}" width="80"></td>
+    <td><img src="{{ book.cover | relative_url }}" width="80"></td>
     <td>
       <strong>{{ book.title }}</strong><br>
       {{ book.authors }}<br>
