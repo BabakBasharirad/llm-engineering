@@ -62,7 +62,7 @@
   library: "O’Reilly library"
   year: "June 2025"
   publisher: "Manning Publications"
-  cover: "/images/refs/r8.png"
+  cover: "/_images/refs/r8.png"
 
 - ref: R9
   title: "Designing Large Language Model Applications"
