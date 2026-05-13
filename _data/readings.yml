@@ -7,6 +7,7 @@
   year: "Nov. 2022"
   publisher: "Apress"
   cover: "/_images/refs/r1.png"
+  url: "https://learning.oreilly.com/library/view/introduction-to-responsible/9781484299821/"
 
 - ref: R2
   title: "97 Things About Ethics Everyone in Data Science Should Know"
@@ -15,6 +16,7 @@
   year: "August 2020"
   publisher: "O’Reilly Media"
   cover: "/_images/refs/r2.jpg"
+  url: "https://learning.oreilly.com/library/view/97-things-about/9781492072652/"
 
 - ref: R3
   title: "Natural Language Processing in Action"
@@ -23,6 +25,7 @@
   year: "February 2025"
   publisher: "Manning Publications"
   cover: "/_images/refs/r3.png"
+  url: "https://learning.oreilly.com/library/view/natural-language-processing/9781617299445/"
 
 - ref: R4
   title: "Practical Natural Language Processing"
@@ -31,6 +34,7 @@
   year: "June 2020"
   publisher: "O’Reilly Media"
   cover: "/_images/refs/r4.png"
+  url: "https://learning.oreilly.com/library/view/practical-natural-language/9781492054047/"
 
 - ref: R5
   title: "Natural Language Processing with Transformers"
@@ -39,6 +43,7 @@
   year: "May 2022"
   publisher: "O’Reilly Media"
   cover: "/_images/refs/r5.png"
+  url: "https://learning.oreilly.com/library/view/natural-language-processing/9781098136789/"
 
 - ref: R6
   title: "Hands-On Large Language Models"
@@ -47,6 +52,7 @@
   year: "September 2024"
   publisher: "O’Reilly Media"
   cover: "/_images/refs/r6.png"
+  url: "https://learning.oreilly.com/library/view/practical-machine-learning/9781484232071/"
 
 - ref: R7
   title: "Build a Large Language Model (From Scratch)"
@@ -55,6 +61,7 @@
   year: "September 2024"
   publisher: "Manning Publications"
   cover: "/_images/refs/r7.png"
+  url: "https://learning.oreilly.com/library/view/build-a-large/9781633437166/"
 
 - ref: R8
   title: "How Large Language Models Work"
@@ -63,6 +70,7 @@
   year: "June 2025"
   publisher: "Manning Publications"
   cover: "/_images/refs/r8.png"
+  url: "https://learning.oreilly.com/library/view/how-large-language/9781633437081/"
 
 - ref: R9
   title: "Designing Large Language Model Applications"
@@ -71,6 +79,7 @@
   year: "March 2025"
   publisher: "O’Reilly Media"
   cover: "/_images/refs/r9.png"
+  url: "https://learning.oreilly.com/library/view/designing-large-language/9781098150495/"
 
 - ref: R10
   title: "Privacy and Security for Large Language Models"
@@ -79,6 +88,7 @@
   year: "January 2026"
   publisher: "O’Reilly Media"
   cover: "/_images/refs/r10.png"
+  url: ""
 
 - ref: R11
   title: "Intermediate Python and Large Language Models"
@@ -87,6 +97,7 @@
   year: "June 2025"
   publisher: "Apress"
   cover: "/_images/refs/r11.png"
+  url: "https://learning.oreilly.com/library/view/intermediate-python-and/9798868814754/"
 
 - ref: R12
   title: "Quick Start Guide to Large Language Models: Strategies and Best Practices for ChatGPT, Embeddings, Fine-Tuning, and Multimodal AI"
@@ -95,3 +106,4 @@
   year: "October 2024"
   publisher: "Addison-Wesley Professional"
   cover: "/_images/refs/r12.jpg"
+  url: "https://learning.oreilly.com/library/view/quick-start-guide/9780135346570/"
