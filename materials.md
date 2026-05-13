@@ -13,7 +13,7 @@ permalink: /materials/
     <td>
       <strong>{{ book.title }}</strong><br>
       {{ book.authors }}<br>
-      Available on {{ book.library }}.<br>
+      Available on <a href="{{ book.url }}">{{book.library}}</a>.<br>
       {{ book.year }}. {{ book.publisher }}.<br>
     </td>
   </tr>
