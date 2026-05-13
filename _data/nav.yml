@@ -5,7 +5,7 @@ items:
 
 - url: /plan/
   name: Plan
-  icon_class: fa-solid fa-calendar-week
+  icon_class: far fa-calendar-check
 
 - url: /schedule/
   name: Schedule
