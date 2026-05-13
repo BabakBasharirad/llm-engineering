@@ -4,6 +4,14 @@
   slot2: "Python environment setup"
   notes: "Read the course guide and install the required tools."
 
+- week: 1
+  day: "Tuesday"
+  slot1: "Introduction to the course and Responsible AI"
+  slot2: "Python environment setup"
+  notes: "<a href="https://example.com/slides" target="_blank">lecture slides</a> <br>
+  <a href="https://example.com/paper" target="_blank">this paper</a>"
+
+
 - week: 2
   day: "Monday"
   slot1: "Ethical principles in AI"
