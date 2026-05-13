@@ -8,38 +8,44 @@ layout: default
 
 {{ content }}
 
+{% assign w_week = "8%" %}
+{% assign w_day = "10%" %}
+{% assign w_slot1 = "22%" %}
+{% assign w_slot2 = "22%" %}
+{% assign w_notes = "38%" %}
+
 <div class="home" style="font-size: 0.8em;">
     <ul class="responsive-table" style="margin-left: 0;">
 
         <li class="table-header">
-            <div class="col col-1">Week</div>
-            <div class="col col-1-2">Day</div>
-            <div class="col col-2">Slot 1 Activities</div>
-            <div class="col col-2">Slot 2 Activities</div>
-            <div class="col col-4">Notes / Self-Learning / Assignments / Resources</div>
+            <div class="col" style="width: {{ w_week }};">Week</div>
+            <div class="col" style="width: {{ w_day }};">Day</div>
+            <div class="col" style="width: {{ w_slot1 }};">Slot 1 Activities</div>
+            <div class="col" style="width: {{ w_slot2 }};">Slot 2 Activities</div>
+            <div class="col" style="width: {{ w_notes }};">Notes / Self-Learning / Assignments / Resources</div>
         </li>
 
         {% assign plan_items = site.data.plan | sort: "week" %}
 
         {% for item in plan_items %}
         <li class="table-row">
-            <div class="col col-1" data-label="Week">
+            <div class="col" style="width: {{ w_week }};" data-label="Week">
                 Week {{ item.week }}
             </div>
 
-            <div class="col col-1-2" data-label="Day">
+            <div class="col" style="width: {{ w_day }};" data-label="Day">
                 {{ item.day }}
             </div>
 
-            <div class="col col-2" data-label="Slot 1 Activities">
+            <div class="col" style="width: {{ w_slot1 }};" data-label="Slot 1 Activities">
                 {{ item.slot1 | markdownify }}
             </div>
 
-            <div class="col col-2" data-label="Slot 2 Activities">
+            <div class="col" style="width: {{ w_slot2 }};" data-label="Slot 2 Activities">
                 {{ item.slot2 | markdownify }}
             </div>
 
-            <div class="col col-4" data-label="Notes / Self-Learning / Assignments / Resources">
+            <div class="col" style="width: {{ w_notes }};" data-label="Notes">
                 {{ item.notes | markdownify }}
             </div>
         </li>
