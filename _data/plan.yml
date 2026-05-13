@@ -8,8 +8,7 @@
   day: "Tuesday"
   slot1: "Introduction to the course and Responsible AI"
   slot2: "Python environment setup"
-  notes: "<a href="https://example.com/slides" target="_blank">lecture slides</a> <br>
-  <a href="https://example.com/paper" target="_blank">this paper</a>"
+  notes: "<a href="https://example.com/slides" target="_blank">lecture slides</a> <br> <a href="https://example.com/paper" target="_blank">this paper</a>"
 
 
 - week: 2
