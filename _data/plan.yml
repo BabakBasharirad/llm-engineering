@@ -1,0 +1,23 @@
+- week: 1
+  day: "Monday"
+  slot1: "Introduction to the course and Responsible AI"
+  slot2: "Python environment setup"
+  notes: "Read the course guide and install the required tools."
+
+- week: 2
+  day: "Monday"
+  slot1: "Ethical principles in AI"
+  slot2: "Case study discussion"
+  notes: "Read [lecture slides](/slides/week-2/) and prepare for the class discussion."
+
+- week: 3
+  day: "Monday"
+  slot1: "Bias and fairness"
+  slot2: ""
+  notes: "Assignment 1 released."
+
+- week: 4
+  day: "Monday"
+  slot1: ""
+  slot2: "Practical workshop"
+  notes: ""
